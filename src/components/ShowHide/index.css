@@ -1,0 +1,55 @@
+.card-container {
+  background-image: radial-gradient(#fa7257, #fc63a7);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.button-container {
+  display: flex;
+  justify-content: center;
+  height: 500px;
+  width: 700px;
+}
+.bg-container {
+  padding: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn {
+  color: #dd1264;
+  padding: 12px;
+  border-radius: 4px;
+  border-width: 0px;
+  margin-left: 10px;
+  margin-bottom: 30px;
+}
+.btn-name {
+  margin-top: 0px;
+  margin-right: 80px;
+  margin-left: 35px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 50px;
+}
+.name-container {
+  height: 100px;
+  width: 200px;
+  background-color: #fddddb;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 8px;
+  margin-top: 0px;
+}
+.heading {
+  text-align: center;
+  margin-top: 200px;
+}
